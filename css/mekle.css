@@ -1,0 +1,41 @@
+.deneme{
+	margin-left: 15px;
+	margin-top: 15px;
+	width: 90px;
+	height: 80px;
+	background-color: #b4eeb4;
+	border: 0;
+	font-weight: bold;
+}
+.deneme:hover{
+	transform: scale(0.9);
+}
+.sa{
+	margin-top: 50px;
+	width: 1000px;
+	height: 300px;
+	border: 1px solid black;
+}
+.urunler{
+	width: 80px;
+	height: 80px;
+	background-color: #698b69;
+	line-height: 65px;
+	margin-top: 15px;
+	display: block;
+
+}
+.ass{
+	text-decoration: none;
+	color: white;
+
+}
+.xx{
+	margin-top: -50px;
+}
+
+.ass:hover{
+	text-decoration: none;
+	color: white;
+
+}
